@@ -4,7 +4,7 @@ import "./Footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      <p>@ 2024 Moja strona</p>
+      <p>@ 2024 Open source</p>
     </footer>
   );
 }
